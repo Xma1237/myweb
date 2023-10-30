@@ -33,12 +33,6 @@ export const projectsData = [
     category: "web",
     detail: "The second personal website since last one was too ugly. Done when learning React. resource: https://www.youtube.com/@CrypticalCoder,  Https://github.com/Xma1237/Athabasca-website",
   },
-  {
-    id: 5,
-    image: Work5,
-    title: "Web design",
-    category: "web",
-  },
 ];
 
 // projects

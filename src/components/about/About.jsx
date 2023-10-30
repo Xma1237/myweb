@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Smith-Cv.pdf";
+import CV from "../../assets/MaResume.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,9 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Frontend developer, I create web pages with UI / UX user interface,
-            I have years of experience and many clients are happy with the
-            projects carried out.
+            Hello! My name is Carter Ma. I'm a software developer with a knack for both team collaboration and individual tasks. Attention to detail is one of my strong suits, ensuring that the projects I undertake are meticulously executed. Outside of work, I'm passionate about fitness and gaming. I also have a cat and a dog.
           </p>
 
           <a download="" href={CV} className="button button--flex">
