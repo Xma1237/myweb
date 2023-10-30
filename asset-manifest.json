@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myweb/static/css/main.7a96345b.css",
+    "main.js": "/myweb/static/js/main.aac57e86.js",
+    "static/media/about.jpg": "/myweb/static/media/about.c0b537074d9d6cf1da0c.jpg",
+    "static/media/homeimg.jpg": "/myweb/static/media/homeimg.0489e8c968caf139ddd7.jpg",
+    "static/media/work2.jpg": "/myweb/static/media/work2.8b3bdcf022b7fcda0837.jpg",
+    "static/media/work4.jpg": "/myweb/static/media/work4.0adfcacc8a7cf9051181.jpg",
+    "static/media/work3.jpg": "/myweb/static/media/work3.fefb5ae81c5d09637a05.jpg",
+    "static/media/MaResume.pdf": "/myweb/static/media/MaResume.913d31d21816df8e128c.pdf",
+    "static/media/work1.jpg": "/myweb/static/media/work1.bea9f08e207a55bd8df8.jpg",
+    "static/media/work5.jpg": "/myweb/static/media/work5.094ec4a2224db8908873.jpg",
+    "index.html": "/myweb/index.html",
+    "main.7a96345b.css.map": "/myweb/static/css/main.7a96345b.css.map",
+    "main.aac57e86.js.map": "/myweb/static/js/main.aac57e86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a96345b.css",
+    "static/js/main.aac57e86.js"
+  ]
+}
